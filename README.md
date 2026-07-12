@@ -1,2 +1,2 @@
-| <img width="343" height="557" alt="Screenshot 2026-07-12 at 23 54 29" src="https://github.com/user-attachments/assets/c7c3e112-30b7-44c4-82c5-39cad3cec7ba" /> | Заголовок 2 |
+| <img width="392" height="637" alt="Screenshot_2026-07-12_at_23 54 29-removebg-preview" src="https://github.com/user-attachments/assets/3d918a83-8996-40b2-8a6c-0172ffc97865" /> | Заголовок 2 |
 |-------------|-------------|
